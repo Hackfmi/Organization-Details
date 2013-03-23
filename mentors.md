@@ -1,5 +1,7 @@
 # The list of technology mentors during the Saturday (13th of April) of HackFMI
 
+More info at http://hackfmi.com/technical-mentors/
+
 ## Miroslav Miroslavov
 * Developer and Team Leader at Telerik
 * Founder of http://sofiavalley.com/
