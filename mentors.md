@@ -46,3 +46,18 @@ Look Todor Kolev :)
 * PHP
 * jQuery
 * Object Oriented Programming / Analysis
+
+## Yasen Yankov
+* Lead Software Developer at Cisco Systems
+* Founder at http://it-instructor.com and http://bitlendingclub.com
+* Find him on LinkedIN - http://www.linkedin.com/profile/view?id=87140525
+
+### He's good at
+* Team Leading
+* Object Oriented Analysis, Modeling and Programming
+* OOP Design Patterns
+* Internet and Web technologies
+* JAVA
+* PHP
+* Javascript
+* noSQL
