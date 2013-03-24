@@ -61,3 +61,13 @@ Look Todor Kolev :)
 * PHP
 * Javascript
 * noSQL
+
+## Alexander Todorov
+* QA guru, cloud enthusiast, OSS hacker, Red Hat Certified
+* Founder of http://dif.io and http://otb.bg
+* Find him at http://atodorov.org/about
+
+### He's good at
+* Python + Django
+* Many PaaS/IaaS clouds, especially Amazon Web Services
+* Quality Engineering if you desperately need it
