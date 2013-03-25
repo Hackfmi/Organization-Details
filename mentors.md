@@ -8,7 +8,7 @@ More info at http://hackfmi.com/technical-mentors/
 * Find him on Twitter - https://twitter.com/mmiroslavov
 
 ## Petar Dobrev
-* CTO of http://vertigohq.com/
+* Co-Founder & CTO of http://vertigohq.com/
 * Find him on LinkedIN - http://www.linkedin.com/in/petardobrev
 
 ### He's good at
