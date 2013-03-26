@@ -7,6 +7,11 @@ More info at http://hackfmi.com/technical-mentors/
 * Founder of http://sofiavalley.com/
 * Find him on Twitter - https://twitter.com/mmiroslavov
 
+## Stefan Dobrev
+* Team Leader at Telerik working on [Icenium](http://icenium.com)
+* Good at .NET, hybrid mobile apps and telling jokes
+* Find him at http://sdobrev.com/about/
+
 ## Petar Dobrev
 * Co-Founder & CTO of http://vertigohq.com/
 * Find him on LinkedIN - http://www.linkedin.com/in/petardobrev
