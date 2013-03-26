@@ -83,3 +83,18 @@ Look Todor Kolev :)
 * Python + Django
 * Many PaaS/IaaS clouds, especially Amazon Web Services
 * Quality Engineering if you desperately need it
+
+## Bozhidar Dryanovski
+* Senior Web Developer at [Komfo](http://komfo.com/)
+* Find him at http://bdryanovski.herokuapp.com/
+* Twitter [@bdryanovski](https://twitter.com/bdryanovski)
+* Github [bdryanovski](https://github.com/bdryanovski)
+
+### He's good at
+* PHP
+* NodeJS
+* Ruby
+* JavaScript/CoffeeScript
+* MySQL/MongoDB
+* VIM 
+* Arduino
