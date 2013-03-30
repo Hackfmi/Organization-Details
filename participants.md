@@ -107,6 +107,19 @@
 100    | Йордан Бабуков | Четвърти | Информатика |
 101    | Александър Милушев | Трети | Компютърни Науки |
 102    | Станимир Димов | Трети | Компютърни Науки |
+103    | Глория Конова | Трети | Компютърни Науки |
+104    | [Людмила Савова] (#ludmilasavova) | Втори | Софтуерно Инженрство |
+105    | Даниел Балчев | Трети | Компютърни Науки |
+106    | Александар Стоичков | Втори | Софтуерно Инженерство |
+107    | [Благовест Тренчев] (#blagovesttrenchev) | Трети | Приложна Математика |
+108    | Никола Ненков | Трети | Компютърни Науки |
+109    | Димитър Мутафчиев | Втори | Компютърни Науки |
+110    | Илиян Влахов | Втори | Софтуерно Инженерство |
+111    | Ангел Цанев | Първи | Компютърни Науки |
+112    | Нели Хатева | Четвърти | Компютърни Науки |
+113    | Николина Гюрова | Първи | Софтуерно Инженерство |
+114    | Цветелина Грачева | Трети | Софтуерно Инженерство |
+115    | Пламен Стоев | Магистър | Информатика |
 
 <a name="ideas"/>
 # Регистрираните до сега идеи
@@ -164,3 +177,11 @@ WEB приложение - навигатор за оптимално взима
 <a name="velislavmarcheev"/>
 ## Велислав Марчеев
 Създаване на сървър с учебни материали по дисциплините изучавани във ФМИ.
+
+<a name="ludmilasavova"/>
+## Людмила Савова
+Ideqta mi za hack fmi e da se suzdade sistema, podobna na BlackBoard Learning System, koqto e populqrna v mnogo 4ujdestranni universiteti. Taka nqma da ima nujda ot nqkolko moodle-a, a i za studentite shte e mnogo po-udobno da budat uvedomqvani za predstoqshti subitiq, kacheni lekcii, otmeneni lekcii, materiali, kontrolni, subitiq i tnt. Oshte po-dobre shte e ako sistemata moje da se dostupva 4rez mobilno prilojenie. Tova shte ulesni do golqma stepen komunikaciqta i uvedomenostta na profesori i studenti, shte organizira deinostta, shte mogat da se populqrizirat predstoq6ti prezentacii i subitiq, kariernite dni i oshte mnogo drugi neshta.
+
+<a name="blagovesttrenchev"/>
+## Благовест Тренчев
+Ще си поиграя по сайт за зала 100. 
