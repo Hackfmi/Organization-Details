@@ -98,3 +98,9 @@ Look Todor Kolev :)
 * MySQL/MongoDB
 * VIM 
 * Arduino
+
+## Bozhidar Bozhanov
+* Senior Java Developer
+* StackOverflow 'guru' - http://stackoverflow.com/users/203907/bozho
+* Author of http://computoser.com/ and http://welshare.com/
+* Twitter Comedian - https://twitter.com/bozhobg
