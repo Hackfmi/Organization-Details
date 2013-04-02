@@ -24,8 +24,8 @@ More info at http://hackfmi.com/technical-mentors/
 * Mobile
 
 ## Todor Kolev
-* Co-Founder and CEO of http://www.obecto.com/
-* Find him on LinkedIN - http://www.linkedin.com/profile/view?id=1294154
+* Partner at PoolTalent: http://www.pooltalent.com
+* Find him on LinkedIn - http://www.linkedin.com/profile/view?id=1294154
 
 ### He's good at
 * Entrepreneurship
@@ -36,28 +36,41 @@ More info at http://hackfmi.com/technical-mentors/
 * Internet and Web technologies
 * Rich Internet Applications
 * Enterprise Architectures
-* Relational Databases
+* User Experience Design
 
 ## Vladimir Tsvetkov
-* Founder & Partner at http://www.obecto.com/
-* Find him on LinkedIN - http://www.linkedin.com/profile/view?id=8293541
+* Co-Founder & Partner at Obecto: http://www.obecto.com
+* Partner at SEC Live: http://www.seclive.com
+* Personal Blog - http://www.pooltalent.com
+* Find him on LinkedIn - http://www.linkedin.com/profile/view?id=8293541
 
 ### He's good at :
-Look Todor Kolev :)
+* Software Architectures
+* Software Processes
+* Object Oriented Programming
+* Clean Code
+* Technical Presentations
+* User Experience Design
 
 ## Nikola Gramatikov
-* Graphical Designer
-* Find him on LinkedIN - http://www.linkedin.com/profile/view?id=70637059
+* UX Designer at Obecto: http://www.obecto.com
+* Find him on LinkedIn - http://www.linkedin.com/profile/view?id=70637059
+
+### He's good at :
+* Graphic Design
+* Interaction Design
+* User Experience Design
+* Industrial Design
 
 ## Yavor Yankov
-* Senior Developer at http://www.obecto.com/
-* Can help with implementations.
-* Find him on LinkedIN - http://www.linkedin.com/profile/view?id=94310822
+* Senior Developer at Obecto: http://www.obecto.com
+* Find him on LinkedIn - http://www.linkedin.com/profile/view?id=94310822
 
-### He's good at
-* PHP
-* jQuery
-* Object Oriented Programming / Analysis
+### He's good at :
+* Object Oriented Programming
+* Clean Code
+* Web Applications
+* PHP, Java
 
 ## Yasen Yankov
 * Lead Software Developer at Cisco Systems
