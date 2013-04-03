@@ -24,6 +24,8 @@ More info at http://hackfmi.com/technical-mentors/
 * Mobile
 
 ## Todor Kolev
+* CEO & Founder at Obecto: http://www.obecto.com
+* Partner at SEC Live: http://www.seclive.com
 * Partner at PoolTalent: http://www.pooltalent.com
 * Find him on LinkedIn - http://www.linkedin.com/profile/view?id=1294154
 
@@ -41,7 +43,8 @@ More info at http://hackfmi.com/technical-mentors/
 ## Vladimir Tsvetkov
 * Co-Founder & Partner at Obecto: http://www.obecto.com
 * Partner at SEC Live: http://www.seclive.com
-* Personal Blog - http://www.pooltalent.com
+* Personal Blog - http://npacemo.com
+
 * Find him on LinkedIn - http://www.linkedin.com/profile/view?id=8293541
 
 ### He's good at :
