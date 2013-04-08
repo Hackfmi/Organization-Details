@@ -120,3 +120,16 @@ More info at http://hackfmi.com/technical-mentors/
 * StackOverflow 'guru' - http://stackoverflow.com/users/203907/bozho
 * Author of http://computoser.com/ and http://welshare.com/
 * Twitter Comedian - https://twitter.com/bozhobg
+
+## Stoyan Vellev
+* Development Manager at [SAP Labs Bulgaria] (http://www.sap.com/bulgaria/about/saplabs/index.epx), working on [SAP HANA Cloud](http://www.sap.com/clouddeveloper)
+* LinkedIn [stoyo] (http://www.linkedin.com/in/stoyo)
+* Twitter [@100yo] (https://twitter.com/100yo)
+
+### He's good at
+* Java
+* Java EE
+* Cloud Computing
+* Relational Databases
+* Project Management
+* Agile Methodologies
