@@ -133,3 +133,17 @@ More info at http://hackfmi.com/technical-mentors/
 * Relational Databases
 * Project Management
 * Agile Methodologies
+
+## Krasimir Baylov
+
+* Krasimir Baylov is a senior softaware engineer and agile enthusiast in MusalaSoft. 
+* He is almost five years deep in the Java technologies for big international clients.
+* LinkedIn - http://www.linkedin.com/profile/view?id=89193390
+
+### He's good at
+* Java
+* J2EE
+* RDBMS
+* Software Architectures
+* Agile Methodologies
+* Prototyping
