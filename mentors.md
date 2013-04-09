@@ -147,3 +147,25 @@ More info at http://hackfmi.com/technical-mentors/
 * Software Architectures
 * Agile Methodologies
 * Prototyping
+
+## Bozhidar Stanchev
+
+* Expert software engineer at http://www.nemetschek.bg/ 
+* LinkedIn - http://www.linkedin.com/in/bstanchev
+
+## He's good at
+
+* Graphical and CAD applications
+* Algorithms
+* Object Oriented Design and Programming
+
+## Atanas Gardev
+
+* Senior Java Developer at Nemetschek: http://www.nemetschek.bg/
+* Find him on LinkedIn - http://www.linkedin.com/profile/view?id=76559557 
+
+## He's good at
+* Object Oriented Programming
+* Web Applications
+* Java, RDBMSs
+* Automation testing
