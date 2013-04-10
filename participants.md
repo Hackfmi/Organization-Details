@@ -200,7 +200,9 @@
 
 <a name="ognianangelov"/>
 ## Огнян Ангелов
-QR страничка за зала 100 ( по-лесен начин за записване в зала 100 )
+Система за осъвременяване на процеса около записването в зала 100.  
+[Repository][ChackInAtFmiRepository]
+[ChackInAtFmiRepository]: https://github.com/TheCodingMonkeys/checkin-at-fmi "Repository"
 
 <a name="mirabivas"/>
 ## Мира Бивас
