@@ -153,7 +153,7 @@ More info at http://hackfmi.com/technical-mentors/
 * Експерт програмист в Немечек - http://www.nemetschek.bg/ 
 * Можете да го намерите тук - http://www.linkedin.com/in/bstanchev
 
-## Добър е в
+### Добър е в
 
 * Графични и CAD приложения 
 * Алгоритми 
