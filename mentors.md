@@ -148,16 +148,20 @@ More info at http://hackfmi.com/technical-mentors/
 * Agile Methodologies
 * Prototyping
 
-## Bozhidar Stanchev
+## Божидар Станчев
 
-* Expert software engineer at http://www.nemetschek.bg/ 
-* LinkedIn - http://www.linkedin.com/in/bstanchev
+* Експерт програмист в Немечек - http://www.nemetschek.bg/ 
+* Можете да го намерите тук - http://www.linkedin.com/in/bstanchev
 
-## He's good at
+## Добър е в
 
-* Graphical and CAD applications
-* Algorithms
-* Object Oriented Design and Programming
+* Графични и CAD приложения 
+* Алгоритми 
+* Методи за моделиране на повърхнини 
+* Подразделяне при представяне на повърхнини 
+* Методи за моделиране и модифициране на теренни модели 
+* Моделиране на човешко тяло 
+* Обектно ориентиран дизайн и програмиране 
 
 ## Atanas Gardev
 
