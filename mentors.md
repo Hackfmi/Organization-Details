@@ -168,8 +168,18 @@ More info at http://hackfmi.com/technical-mentors/
 * Senior Java Developer at Nemetschek: http://www.nemetschek.bg/
 * Find him on LinkedIn - http://www.linkedin.com/profile/view?id=76559557 
 
-## He's good at
+### He's good at
 * Object Oriented Programming
 * Web Applications
 * Java, RDBMSs
 * Automation testing
+
+## Венцислав Попов
+* Мениджър платформи за разработка, Майкрософт
+* LinkedIn профил: http://bg.linkedin.com/in/ventsypopov/
+* Блог: http://ventsypopov.com/
+
+### Опит
+* Разработка на софтуерни проекти ASP.NET уеб системи, SQL Server / Oracle DBs, Windows Store Apps, Windows Azure applications;
+* Управление на софтуерни проекти;
+* Представяне/обучение за софтуерно решение или технология (Certified Microsoft Trainer);
