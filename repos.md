@@ -18,3 +18,4 @@
 * https://github.com/TheCodingMonkeys/checkin-at-fmi-client
 * https://github.com/vcrazy/project-6
 * https://github.com/Vladimiroff/massive-octo-ninja
+* https://github.com/MrGreeny/FMITutorials
