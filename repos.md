@@ -15,6 +15,7 @@
 * https://github.com/paletov/dummies
 * https://github.com/rplatikanov/ExamScheduler
 * https://github.com/stormbreakerbg/hackfmi-calendar
+* https://github.com/TheCodingMonkeys/checkin-at-fmi
 * https://github.com/TheCodingMonkeys/checkin-at-fmi-client
 * https://github.com/vcrazy/project-6
 * https://github.com/Vladimiroff/massive-octo-ninja
