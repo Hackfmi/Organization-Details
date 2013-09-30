@@ -1,7 +1,14 @@
 # Списък с технологичните ментори, които ще бъдат на разположение по време на хакатона
 
 ## Kiril Vladimiroff
+* Developer at Magic Solutions
+* Lecturer for Python & Go courses
 * Find him on Twitter - https://twitter.com/K_Vladimiroff
+
+### He's good at
+* Python & Django
+* Go
+* Web Development
 
 ## Miroslav Miroslavov
 * Developer and Team Leader at Telerik
