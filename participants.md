@@ -50,13 +50,12 @@
 43 | Янко Малинов | Втора | Математика и Информатика | JavaScript Frontend, NodeJS, HTML & CSS, Python / Django, MySQL / Postgre, Server administration (Unix), Photoshop / Slicing, Hardware stuff, Java, C# / .NET, Git / Github |
 44 | [Теодор Катранджиев](#teodorkatrandjiev) | първа Магистър | Електронно обучение | HTML & CSS, Java, Project Management / Даване на идеи, Мога да мотивирам хората!, Бригадир!, Мога да правя чай. |
 45 | Александър Караатанасов | 10 клас НПМГ | Математика и Информатика | Mobile Dev - Java, Mobile Dev - iOS, Photoshop / Slicing, Hardware stuff, Java, C / C++, Project Management / Даване на идеи, Мога да мотивирам хората! |
-46 | Александър Караатанасов | 10 клас НПМГ | Математика и Информатика | Mobile Dev - Java, Mobile Dev - iOS, Photoshop / Slicing, Hardware stuff, Java, C / C++, Project Management / Даване на идеи, Мога да мотивирам хората! |
-47 | Димитър Желев | 4ти курс | Информатика | PHP, HTML & CSS, MySQL / Postgre, Java, C / C++, C# / .NET, Пиене в големи количества |
-48 | [Димо Узунов](#dimouzunov) | 4ти курс | Компютърни науки | PHP, JavaScript Frontend, HTML & CSS, MySQL / Postgre, Mobile Dev - Java, Photoshop / Slicing, Hardware stuff, Java, C# / .NET, Project Management / Даване на идеи, Мога да мотивирам хората!, Git / Github, Презентационни умения, умения за работа в екип, wordpress, jQuery |
-49 | Георги Ангелов | трета | Компютърни науки | PHP, JavaScript Frontend, NodeJS, HTML & CSS, Python / Django, MySQL / Postgre, NoSQL, Photoshop / Slicing, Java, C / C++, C# / .NET, Git / Github |
-50 | [Даниел Филипов](#danielfilipov) | трети курс | Информационни Системи | JavaScript Frontend, HTML & CSS, MySQL / Postgre, NoSQL, Mobile Dev - Hybrid (JS / HTML 5), C / C++, C# / .NET, Git / Github |
-51 | Симеон Попов | Четвърта | Компютърни науки | PHP, HTML & CSS, Python / Django, MySQL / Postgre, Mobile Dev - Java, Java, Project Management / Даване на идеи, Мога да мотивирам хората!, Git / Github |
-52 | [Янис Василев](#yanisvasilev) | Първа | Статистика | PHP, HTML & CSS, Photoshop / Slicing, C / C++, C# / .NET, Project Management / Даване на идеи |
+46 | Димитър Желев | 4ти курс | Информатика | PHP, HTML & CSS, MySQL / Postgre, Java, C / C++, C# / .NET, Пиене в големи количества |
+47 | [Димо Узунов](#dimouzunov) | 4ти курс | Компютърни науки | PHP, JavaScript Frontend, HTML & CSS, MySQL / Postgre, Mobile Dev - Java, Photoshop / Slicing, Hardware stuff, Java, C# / .NET, Project Management / Даване на идеи, Мога да мотивирам хората!, Git / Github, Презентационни умения, умения за работа в екип, wordpress, jQuery |
+48 | Георги Ангелов | трета | Компютърни науки | PHP, JavaScript Frontend, NodeJS, HTML & CSS, Python / Django, MySQL / Postgre, NoSQL, Photoshop / Slicing, Java, C / C++, C# / .NET, Git / Github |
+49 | [Даниел Филипов](#danielfilipov) | трети курс | Информационни Системи | JavaScript Frontend, HTML & CSS, MySQL / Postgre, NoSQL, Mobile Dev - Hybrid (JS / HTML 5), C / C++, C# / .NET, Git / Github |
+50 | Симеон Попов | Четвърта | Компютърни науки | PHP, HTML & CSS, Python / Django, MySQL / Postgre, Mobile Dev - Java, Java, Project Management / Даване на идеи, Мога да мотивирам хората!, Git / Github |
+51 | [Янис Василев](#yanisvasilev) | Първа | Статистика | PHP, HTML & CSS, Photoshop / Slicing, C / C++, C# / .NET, Project Management / Даване на идеи |
 
 <a name="ideas"/>
 # Регистрираните до сега идеи
