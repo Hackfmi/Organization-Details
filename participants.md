@@ -56,6 +56,41 @@
 49 | [Даниел Филипов](#danielfilipov) | трети курс | Информационни Системи | JavaScript Frontend, HTML & CSS, MySQL / Postgre, NoSQL, Mobile Dev - Hybrid (JS / HTML 5), C / C++, C# / .NET, Git / Github |
 50 | Симеон Попов | Четвърта | Компютърни науки | PHP, HTML & CSS, Python / Django, MySQL / Postgre, Mobile Dev - Java, Java, Project Management / Даване на идеи, Мога да мотивирам хората!, Git / Github |
 51 | [Янис Василев](#yanisvasilev) | Първа | Статистика | PHP, HTML & CSS, Photoshop / Slicing, C / C++, C# / .NET, Project Management / Даване на идеи |
+52 | Стефан Георгиев | трета | Компютърни науки | C / C++ |
+53 | Надя Иванова | трета | Софтуерно Инжeнерство | JavaScript Frontend, Java |
+54 | Adam Branes | ? |Ученик НПМГ | C / C++, C# / .NET |
+55 | Martin Jordanov | трета | Информатика | C / C++, Project Management / Даване на идеи |
+56 | Лъчезар Спасов | първа | Софтуерно Инжeнерство | Photoshop / Slicing, Java, C# / .NET |
+57 | Даниел Григоров | трета | Компютърни науки | PHP, JavaScript Frontend, NodeJS, HTML & CSS, MySQL / Postgre, Mobile Dev - Hybrid (JS / HTML 5), Photoshop / Slicing, Мога да мотивирам хората!, Graphic & Web Design , UI / UX Design ,  Type-a-holic :D |
+58 | [Христо Аврамов](#hristoavramov) | трета | Компютърни науки | PHP, JavaScript Frontend, HTML & CSS, MySQL / Postgre, Photoshop / Slicing, C / C++, Project Management / Даване на идеи, Мога да мотивирам хората!, Git / Github, Много съм убав. |
+59 | Мария Митева | трета | Софтуерно Инжeнерство | JavaScript Frontend, Python / Django, Java, C / C++, Project Management / Даване на идеи, Мога да мотивирам хората!, Git / Github |
+60 | Елизабет Зарева | първа магистър | Математическо моделиране в икономиката | C / C++, Project Management / Даване на идеи, Мога да мотивирам хората! |
+61 | Добромир Кралев | първа магистър | RSMT | JavaScript Frontend, NodeJS, HTML & CSS, Java, C# / .NET, Git / Github |
+62 | [Радослав Георгиев](#radoslavgeorgiev) | първа | Компютърни науки | PHP, JavaScript Frontend, HTML & CSS, MySQL / Postgre, C / C++, C# / .NET, Project Management / Даване на идеи, Мога да мотивирам хората!, Visual Basic 6 (макар че едва ли ще потрябва за нещо) |
+63 | [Емил Гоцев](#emilgotsev) | 3 | Софтуерно Инжeнерство | Ruby / Rails, Java, Git / Github |
+64 | Васил Тодоров | втора | Компютърни науки | HTML & CSS, C# / .NET |
+65 | Йордан Липчев | Първа магистър | РСМТ | PHP, JavaScript Frontend, HTML & CSS, MySQL / Postgre, Photoshop / Slicing, Project Management / Даване на идеи, Мога да мотивирам хората!, Adobe After Effects / Cinema 4D / Adobe Flash, 3d motioning, Cinema, Commersials and other |
+66 | [Симеон Цветков](#simeontsvetkov) | втора | Приложна Математика | Hardware stuff, Java, C / C++, C# / .NET, Project Management / Даване на идеи |
+67 | Ивайло Мариновски | 4 | Компютърни науки | PHP, JavaScript Frontend, HTML & CSS, C# / .NET |
+68 | Христо Цонков | Втора | Информатика | HTML & CSS |
+69 | Илиян Танев | Втора | Информатика | PHP, JavaScript Frontend, HTML & CSS, MySQL / Postgre, NoSQL, Photoshop / Slicing, C / C++, C# / .NET, Git / Github |
+70 | Йордан Канчелов | 1 | Приложна Математика | Hardware stuff |
+71 | Андон Мицов | 12ти клас | Ученик ТУЕС | PHP, C / C++, C# / .NET, Мога да мотивирам хората!, Git / Github |
+72 | Ганди Пирков | 4 | Информатика | Mobile Dev - iOS, C / C++, C# / .NET, Мога да мотивирам хората! |
+73 | [Валентин Йонев](#valentinyonev) | девети клас | Ученик ТУЕС |  PHP, HTML & CSS, MySQL / Postgre, Hardware stuff, C# / .NET, Project Management / Даване на идеи |
+74 | Николина Гюрова | втора | Софтуерно Инжeнерство | MySQL / Postgre, Java, C / C++, C# / .NET, Git / Github |
+75 | Nikoleta Todorova | 4 | Компютърни науки | Java, C / C++ |
+76 | Светлана Величкова | трета | Компютърни науки | JavaScript Frontend, HTML & CSS, Python / Django, Ruby / Rails, C / C++ |
+77 | Димитрина Златкова | втора | Софтуерно Инжeнерство | HTML & CSS, C# / .NET, Project Management / Даване на идеи |
+78 | Иван Тодоров | безкрайност | Компютърни науки | PHP, HTML & CSS, MySQL / Postgre, Mobile Dev - Java, Mobile Dev - iOS, Java, C / C++, C# / .NET, Googling |
+79 | [Георги Гърдев](#georgigardev) | трета година | Компютърни науки | PHP, JavaScript Frontend, HTML & CSS, Ruby / Rails, MySQL / Postgre, Mobile Dev - iOS, Mobile Dev - Hybrid (JS / HTML 5), Photoshop / Slicing, Java, Git / Github |
+80 | Георги Урумов | 3 | Компютърни науки | HTML & CSS, Python / Django, Ruby / Rails, MySQL / Postgre, NoSQL, Java, C / C++, C# / .NET, Git / Github |
+81 | [Кристиан Ташков](#kristiantashkov) | Трета | Компютърни науки | Ruby / Rails, MySQL / Postgre, Java, C# / .NET, Git / Github |
+82 | Димитър Калинков | втора | Информатика | PHP, JavaScript Frontend, HTML & CSS, MySQL / Postgre, Photoshop / Slicing, C / C++, C# / .NET |
+83 | Филарета Йорданова | трета | Компютърни науки | Python / Django, Ruby / Rails, C / C++, Git / Github |
+84 | Пресиан Абаров | 11ти клас | Ученик ТУЕС | Python / Django, C / C++, Git / Github, Reverse Engineering |
+85 | Николай Дионисов | 11ти клас | Ученик ТУЕС | Python / Django, C / C++, Git / Github |
+86 | [Емил Дудев](#emildudev) | 11ти клас | Ученик ТУЕС | PHP, HTML & CSS, Python / Django, Ruby / Rails, MySQL / Postgre, Hardware stuff, C / C++, C# / .NET, Git / Github, Assembly, unix scripting (bash) |
 
 <a name="ideas"/>
 # Регистрираните до сега идеи
@@ -139,3 +174,54 @@ TeamLearn
 ## Янис Василев
 
 Имам алгоритъм за компресия (набързо написана спецификация на основните файлови формати може да се намери на http://files.ivasilev.net/nano.pdf; самият алгоритъм, който не е описан в спецификацията, все още няма имплементация и бих се радвал той да намери приложение в някой проект. От гледна точка на универсалност (.NET и Mono, както и компилация с Mono) и производителност (ръчно управление на паметта с unsafe методи), смятам да използвам C#.
+
+<a name="hristoavramov" />
+## Христо Аврамов
+
+Система за взаимна помощ между студентите.Идеята е да се изместят Facebook групите на различните университети и училища и всичко да се пренесе на едно място,където да е систематизирано и ясно подредено.така през един web application ще може всеки да намери актуалните проблеми на всеки университет или училище ясно подредени(например в графа Fun ще има фън, в графа търся помощ ще има закъсали хора,в графа административни ще има административни и прочие...)
+
+<a name="radoslavgeorgiev" />
+## Радослав Георгиев
+
+За Hack for FMI:
+На първо място бих искал да допринеса за подобряването на СУСИ, тъй като в сегашния си вариант тази система има нужда от доста корекции, както и от някои жизненоважни нововъведения.
+Освен това според мен добра идея би било сливането на различните информационни системи на университета в една координирана (системата за оценките от изпитите, за кандидатстването за класиране, за самото класиране, СУСИ, ZIMBRA, за кандидатстването за общежития, moodle и т.н.). Също така добре би било поне част от процедурата по записването във факултета (а даже и настаняването в общежитията) да минава през Интернет.
+
+За Hack for Education:
+Имам идея да се изгради единна универсална електронна система за прием в университет за цялата страна, т.е. подреждаш си желанията (специалност и университет) по приоритет, като можеш да бъдеш приет само на едно място в една специалност. Такова нещо има в Дания (нарича се Optagelse: http://www.optagelse.dk/admission/index.html) и в Англия (UCAS: http://www.ucas.com/), и по моя преценка и двете функционират доста добре (като изключим неколкократни технически проблеми със сървърите на Optagelse). За повече информация можете да погледнете следните връзки:
+Optagelse: http://www.optagelse.dk/vejledninger/pdf/KOTapplicant_UK.pdf
+UCAS: http://www.ucas.com/how-it-all-works
+
+<a name="emilgotsev" />
+## Емил Гоцев
+
+Система за оставяне на коментари и да се оценяват изборните дисциплини. Място, където да се събрана цялата информация, а не както сега - всеки да пуска въпроси във фейсбук групата. Идеята е всички коментари да се модерират, да има отделни оценки за трудност, полезност, интересност, наличност на материалите и т.н.
+
+
+<a name="simeontsvetkov" />
+## Симеон Цветков
+
+[Hack for Education] Web-базирана единна платформа за:
+1. качване на лекции, материали от студенти и преподаватели
+2. безплатен Wolfram Alpha - приложение, което ти решава задачи по математика и информатика - детайлно и с обяснения, по повече от един начин. 
+В смисъл, ако се впусна в детайли ще стане много дълго. Това са обобщение. Да има версии и за други устройства: мобилна, таблет и др.
+
+<a name="valentinyonev" />
+##Валентин Йонев
+
+Система за online обучение в училищата
+
+<a name="georgigardev" />
+## Георги Гърдев
+
+Hack for FMI - идеята е да имплементираме по-интерактивна система за библиотеката на ФМИ. Проектът цели да я направи по-достъпна за всички и да улесни всички с целия процес на заемане/връщане/търсене на материали.
+
+<a name="kristiantashkov" />
+## Кристиан Ташков
+
+Hack for FMI - Library management program 
+
+<a name="emildudev" />
+## Емил Дудев
+
+Аз съм ученик и проблемите с които се сблъсквам са главно в образователната система на средните училища. Има много проблеми и според мен половината могат да се решат от технологиите. За останалата част (хората), дори и технологиите не биха помогнали (според мен).
