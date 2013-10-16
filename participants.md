@@ -91,6 +91,47 @@
 84 | Пресиан Абаров | 11ти клас | Ученик ТУЕС | Python / Django, C / C++, Git / Github, Reverse Engineering |
 85 | Николай Дионисов | 11ти клас | Ученик ТУЕС | Python / Django, C / C++, Git / Github |
 86 | [Емил Дудев](#emildudev) | 11ти клас | Ученик ТУЕС | PHP, HTML & CSS, Python / Django, Ruby / Rails, MySQL / Postgre, Hardware stuff, C / C++, C# / .NET, Git / Github, Assembly, unix scripting (bash) |
+87 | [Георги Фарашев] (#georgifarashev) | трета | Компютърни науки | JavaScript Frontend, HTML & CSS, Java, C / C++, Project Management / Даване на идеи, Мога да мотивирам хората!, Git / Github |
+88 | Ивайло Фарашев | магистър | Информатика | JavaScript Frontend, HTML & CSS, MySQL / Postgre, Java, C / C++, Project Management / Даване на идеи, Мога да мотивирам хората!, Git / Github, COBOL |
+89 | Велизар Иванов | втора | Компютърни науки (от ТУ) | Java, C / C++ |
+90 | [Йордан Петров] (#jordanpetrov) | трета | Компютърни науки | Ruby / Rails, Mobile Dev - Java, Java, C / C++, Project Management / Даване на идеи, Git / Github, Clojure |
+91 | [Павел Ангелов] (#pavelangelov) | втора | Компютърни науки (от ТУ) | PHP, HTML & CSS, MySQL / Postgre, Photoshop / Slicing |
+92 | Мария Паскова | втора | Софтуерно Инжeнерство | HTML & CSS, C / C++, C# / .NET |
+93 | Николай Хубанов | четвърта | Компютърни науки | MySQL / Postgre, NoSQL, Java, C / C++, C# / .NET, Git / Github |
+94 | Георги Пурнаров | четвърта | Компютърни науки | PHP, JavaScript Frontend, HTML & CSS |
+95 | [Виктор Марков] (#viktormarkov) | втора | Компютърни науки | HTML & CSS, Photoshop / Slicing, C / C++, Мога да мотивирам хората!, Забавен, Увлекателен, Добър презентатор |
+96 | Георги Георгиев | втора | Компютърни науки | PHP, JavaScript Frontend, HTML & CSS, MySQL / Postgre, NoSQL, Photoshop / Slicing, C# / .NET, Git / Github |
+97 | Лъчезар Цанов | четвърта | Информатика | PHP, JavaScript Frontend, HTML & CSS, Ruby / Rails, MySQL / Postgre |
+98 | Николай Стойков | втора | Софтуерно Инжeнерство | PHP, JavaScript Frontend, NodeJS, HTML & CSS, MySQL / Postgre, Mobile Dev - Java, Java, C / C++, Git / Github |
+99 | [Елвис Стоянов] (#elvisstoqnov) | трета | Компютърни науки | Java, C / C++ |
+100 | [Петър Цоков] (#petartsokov) | трета | Компютърни науки | Java, C / C++, Git / Github |
+101 | [Огнян Ангелов] (#ognyanangelov) | втора | Информатика | Python / Django, Mobile Dev - iOS, Java |
+102 | Марио Димитров | трета | Компютърни науки | JavaScript Frontend, HTML & CSS, MySQL / Postgre, NoSQL, Java, C / C++, C# / .NET |
+103 | Искрен Деков | 12 | - | Мога да мотивирам хората! |
+104 | Никола Иринчев | безкрайност | Физика | Mobile Dev - iOS, C# / .NET, Git / Github |
+105 | [Георги Стоянов] (#georgistoqnov) | четвърта | Софтуерно Инжeнерство | Project Management / Даване на идеи, Мога да мотивирам хората!, user experience |
+106 | Алексанндър Тахчиев | трета | Компютърни науки | JavaScript Frontend, HTML & CSS, Python / Django, Ruby / Rails, C / C++, Git / Github, Scheme Haskel |
+107 | Любомир Коев | втора | Информатика | PHP, JavaScript Frontend, MySQL / Postgre, C / C++, Git / Github |
+108 | Александър Деспотов | втора | Информатика | C / C++ |
+109 | Владислав Харалампиев | трета | Компютърни науки | PHP, C / C++ |
+110 | Събо Русев | четвърта | Компютърни науки | C# / .NET, Мога да мотивирам хората!, Git / Github |
+111 | Иван Иванов | втора | Софтуерно Инжeнерство | JavaScript Frontend, HTML & CSS, Photoshop / Slicing, C# / .NET, пиене на бира и team spirit |
+112 | Светослав Колев | втора | Информатика | PHP, HTML & CSS, Photoshop / Slicing, C / C++, C# / .NET |
+113 | Димитър Мутафчиев | трета | Компютърни науки | PHP, JavaScript Frontend, HTML & CSS, MySQL / Postgre, Java, C / C++, Project Management / Даване на идеи, Git / Github |
+114 | Калин Маринов | Първа | Компютърни науки | HTML & CSS, MySQL / Postgre, C# / .NET |
+115 | Кристиана Неделчева | Първа | Компютърни науки | HTML & CSS, C# / .NET |
+116 | [Велико Минков] (#velikominkov) | четвърта | Компютърни науки | JavaScript Frontend, HTML & CSS, MySQL / Postgre, NoSQL, Server administration (Unix), Java, C / C++, Project Management / Даване на идеи, Мога да мотивирам хората!, Git / Github, Предприемачество |
+117 | [Мартин Георгиев] (#martingeorgiev) | 12ти клас | Ученик СПГЕ "Джон Атанасов" | HTML & CSS, Ruby / Rails, Mobile Dev - Java, Java, C / C++, C# / .NET, Project Management / Даване на идеи, Мога да мотивирам хората! |
+118 | Петър Иванов | 12ти клас | Ученик СПГЕ "Джон Атанасов" | HTML & CSS, Ruby / Rails, MySQL / Postgre, C / C++, C# / .NET, Мога да мотивирам хората!, Git / Github |
+119 | Диана Косашка | безкрайност | Информатика | HTML & CSS, MySQL / Postgre, C# / .NET |
+120 | Иван Вергилиев | +inf | Компютърни науки | JavaScript Frontend, NodeJS, Java, C / C++, Project Management / Даване на идеи, Git / Github |
+121 | Радостин Ангелов | 9 клас | ТУЕС - Системно Програмиране | HTML & CSS, C / C++, C# / .NET |
+122 | Нели Хатева | магистър | Компютърна лингвистика | Python / Django, MySQL / Postgre, Server administration (Unix), C / C++, Git / Github |
+123 | Георги Матеев | Трета | Компютърни науки | JavaScript Frontend, HTML & CSS, Mobile Dev - Hybrid (JS / HTML 5), C / C++, C# / .NET, Git / Github |
+124 | Ангел Ангелов | Първа | Компютърни науки | Python / Django, Server administration (Unix), Hardware stuff, C / C++, Git / Github, "микроконтролери, embedded неща, електроника; всичко, свързано с линукс" |
+125 | Николай Марков | четвърта | Информатика | PHP, HTML & CSS, MySQL / Postgre, Mobile Dev - iOS, C / C++, Git / Github |
+126 | Кристиян Първанов | 12 клас | Ученик СПГЕ "Джон Атанасов" | HTML & CSS, Ruby / Rails, C / C++, Git / Github |
+
 
 <a name="ideas"/>
 # Регистрираните до сега идеи
@@ -225,3 +266,53 @@ Hack for FMI - Library management program
 ## Емил Дудев
 
 Аз съм ученик и проблемите с които се сблъсквам са главно в образователната система на средните училища. Има много проблеми и според мен половината могат да се решат от технологиите. За останалата част (хората), дори и технологиите не биха помогнали (според мен).
+
+<a name="georgifarashev" />
+## Георги Фарашев
+
+Резервиране на стаи в ФМИ.
+
+<a name="jordanpetrov" />
+## Йордан Петров
+
+Мега як сайт за библиотеката на ФМИ, с апито на СУСИ.
+
+<a name="pavelangelov" />
+## Павел Ангелов
+
+Честно казано четох внимателно всичко, но дали защото е късно или не - не намерих точно това което търся. Общо взето искам да присъствам на събитие свързано точно с програмиране, в специалност насочено в уеб сферата :)
+
+<a name="viktormarkov" />
+## Виктор Марков
+
+Gamification на учебния процес.
+
+<a name="elvisstoqnov" />
+## Елвис Стоянов
+
+Списък със залите във ФМИ и това кога са (не)заети.
+
+<a name="petartsokov" />
+## Петър Цоков
+
+Списък със залите във ФМИ и това кога са (не)заети.
+
+<a name="ognyanangelov" />
+## Огнян Ангелов
+
+https://github.com/TheCodingMonkeys/checkin-at-fmi - Доразвиване на системата.
+
+<a name="georgistoqnov" />
+## Георги Соянов
+
+Яко ще е, ако се направи facebook апликация, която да се свърза с АПИ-то на СУСИ и да показва кои твои приятели са записали даден предмет. Приложението може да  е полезно и за търсене на хора от твоят кръг приятели, които вече са изкарали даден предмет - така по-лесно хората ще си набавят информация от своите колеги.
+
+<a name="velikominkov" />
+## Велико Минков
+
+IDE за R
+
+<a name="martingeorgiev" />
+## Мартин Георгиев
+
+Уеб приложение на Ruby on rails върху темата Hack for Education. Идеята ми е да се направи онлайн система, която дава възможността на компетентни хора от дадена област, да създават свои курсове и уроци, където помощни материали могат да бъдат лесно достъпни. Общуването във всеки курс ще се осъществява, чрез онлайн чат система. Освен това могат да се създават отворени групи за дискусия или затворени групи, като например група на 12 клас от съответно училище, където да си разменят материали.
