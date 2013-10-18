@@ -24,3 +24,10 @@
 * Python + Django
 * Many PaaS/IaaS clouds, especially Amazon Web Services
 * Quality Engineering if you desperately need it
+
+
+## Bozhidar Bozhanov
+* Senior Java Developer
+* StackOverflow 'guru' - http://stackoverflow.com/users/203907/bozho
+* Author of http://computoser.com/ and http://welshare.com/
+* Twitter Comedian - https://twitter.com/bozhobg
