@@ -146,7 +146,9 @@
 139 | Радослав Иванов | четвърта | Компютърни науки | JavaScript Frontend, HTML & CSS, MySQL / Postgre, NoSQL, C# / .NET |
 140 | Ваня Сантева | 10 клас | Ученик ТУЕС | HTML & CSS, Python / Django, C / C++ |
 141 | Мира Бивас | магистър | Приложна Математика | JavaScript Frontend, NodeJS, HTML & CSS, C# / .NET, Project Management / Даване на идеи |
-
+142 | Марти Стефанов | не казва | не казва | Mobile Dev - Java, Java, C / C++ |
+143 | Мария Железова | Магистър ФМИ | Софтуерни Технологии | JavaScript Frontend, HTML & CSS, Java, C / C++, C# / .NET, Project Management / Даване на идеи |
+144 | Венцислав Димитров | Магистър ФМИ | Изкуствен Интелект | PHP, JavaScript Frontend, NodeJS, HTML & CSS, MySQL / Postgre, NoSQL, Mobile Dev - Java, Photoshop / Slicing, Hardware stuff, Java, C / C++, Git / Github |
 
 <a name="ideas"/>
 # Регистрираните до сега идеи
