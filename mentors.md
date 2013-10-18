@@ -31,3 +31,12 @@
 * StackOverflow 'guru' - http://stackoverflow.com/users/203907/bozho
 * Author of http://computoser.com/ and http://welshare.com/
 * Twitter Comedian - https://twitter.com/bozhobg
+
+## Georgi Stanev 
+* Senior Developer at Nemetschek 
+
+### He's good at:
+* Python & Django 
+* Web Development 
+* Javascript frameworks 
+* Amazon Web Services 
