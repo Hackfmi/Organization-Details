@@ -39,4 +39,25 @@
 * Python & Django 
 * Web Development 
 * Javascript frameworks 
-* Amazon Web Services 
+* Amazon Web Services
+
+
+## Bozhidar Dryanovski
+* Experienced Software Engineer at Komfo
+* Twitter: https://twitter.com/bdryanovski
+ 
+### He's good at:
+* Ruby (ROR/Sinatra)
+* JavaScript/CoffeeScript 
+* PHP 
+* Hybrid Mobile apps
+* All this with Vim :)
+ 
+ 
+## Alexander Kolarski 
+* Web developer at Komfo
+* Find him on Twitter - https://twitter.com/alex_kolarski
+### He's good at
+* Web Technologies & NoSQL
+* Front-end development
+* Real time web applications
