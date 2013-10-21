@@ -57,6 +57,8 @@
 ## Alexander Kolarski 
 * Web developer at Komfo
 * Find him on Twitter - https://twitter.com/alex_kolarski
+
+
 ### He's good at
 * Web Technologies & NoSQL
 * Front-end development
