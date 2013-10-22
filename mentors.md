@@ -101,3 +101,15 @@
 * assistant at FMI
 * perl extremist, js savvy, python enthusiast
 * editor, phreedom magazine (1999-2001)
+
+## Dimitar Dimitrov
+* Developer at Live Ltd
+* Lecturer in the Programming Ruby course at FMI (http://fmi.ruby.bg/)
+* Find him on Twitter as https://twitter.com/mitio or at http://ddimitrov.name/
+
+### He's good at
+* Ruby & Rails, also PHP
+* Web Development and all related technologies
+* System ops
+
+**Note**: Dimitar is unavailable on Sunday.
