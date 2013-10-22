@@ -74,3 +74,30 @@
 * PHP 
 * Software Architectures
 * Unix && Vim
+
+## Miroslav Mironov
+
+* Mobile Software Engineer at Virtual Affairs
+* Assistant Professor at Sofia University
+* Find him on [LinkedIn](http://www.linkedin.com/profile/view?id=135981029&trk=nav_responsive_tab_profile_pic)
+
+### He's good at:
+* Android Development
+* Java
+* Mobile Apps
+* Unit Testing
+
+
+## Petar Armyanov
+* Developer at ATIA ltd and assistant at FMI
+
+### He's good at:
+* C, C++
+* JAVA (JST, JDBC+JPO, JSP, JSF)
+* Algorithms and software design
+
+
+## Georgi Penkov
+* assistant at FMI
+* perl extremist, js savvy, python enthusiast
+* editor, phreedom magazine (1999-2001)
