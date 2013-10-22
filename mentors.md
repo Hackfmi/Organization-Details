@@ -63,3 +63,14 @@
 * Web Technologies & NoSQL
 * Front-end development
 * Real time web applications
+
+
+## Vladimir Aleksiev
+* CTO at EdHub
+* Twitter: https://twitter.com/v_aleksiev
+ 
+### He's good at:
+* Ruby (RoR/Sinatra) 
+* PHP 
+* Software Architectures
+* Unix && Vim
