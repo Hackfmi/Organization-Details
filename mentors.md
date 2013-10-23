@@ -143,3 +143,17 @@
 * SOA Technologies
 * Java, Java EE
 * JavaScript libraries - jQuery, Dojo
+* 
+
+## Anton Stoychev
+_Not available on Sunday_
+
+ * Running obshtestvo.bg - Civic Hacking in Bulgaria
+ * Latest commercial position as R&D at Stickyeyes Ltd.
+
+### He's good at:
+
+ * Nodejs, Phantomjs, PHP, also GO and Python
+ * Highly distributed and scalable systems, software architecture as a whole
+ * Automated data gathering (crawling, scraping, and throughput performance)
+ * Working with AWS 
