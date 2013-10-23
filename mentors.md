@@ -113,3 +113,33 @@
 * System ops
 
 **Note**: Dimitar is unavailable on Sunday.
+
+
+## Krasimir Baylov
+
+* Senior Developer at Musala Soft
+
+### He's good at:
+
+* Agile, SCRUM, Kanban, Lean 
+* backend PHP, Java
+* MySQL Databases
+
+
+## Emiliyan Kadijski
+
+* Software Developer at Musala Soft
+
+### He's good at:
+
+* Java SE, JAVA EE, Servlets, JSP, JPA, JavaBeans, JSF, REST and SOAP Services, RDBMS, HTML 
+
+## Petyo Dimitrov
+
+* Software Developer at Musala Soft
+
+### He's good at:
+
+* SOA Technologies
+* Java, Java EE
+* JavaScript libraries - jQuery, Dojo
