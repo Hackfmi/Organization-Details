@@ -158,3 +158,29 @@ _Not available on Sunday_
  * Highly distributed and scalable systems, software architecture as a whole
  * Automated data gathering (crawling, scraping, and throughput performance)
  * Working with AWS 
+ 
+## Borislav Kapukaranov
+* Developer at SAP Labs Bulgaria
+
+### He’s good at
+* All things Java
+* Server-side programming
+* Git
+* Build automation
+ 
+## Martin Vladev
+* Developer at SAP Labs Bulgaria
+
+### He's good at:
+* Web Fronted Development with JavaScript, HTML5, CSS3, jQuery, Bootstrap, Angular.js
+* Web Backend Development with Node.js, PHP, Java, Haskell
+* GNU/Linux deployment and infrastructure, Git, SVN
+
+## Pavel Genevski
+* Senior Researcher at SAP 
+ 
+### He's good at:
+* Product research and development
+* Web Development with JavaScript, Java, PHP, HTML, CSS etc
+* SQL, Git, SVN, Perforce, Mercurial
+* Linux Server administration
