@@ -34,6 +34,7 @@
 
 ## Georgi Stanev 
 * Senior Developer at Nemetschek 
+* Find him at http://www.linkedin.com/pub/georgi-stanev/5/b98/88
 
 ### He's good at:
 * Python & Django 
