@@ -184,3 +184,16 @@ _Not available on Sunday_
 * Web Development with JavaScript, Java, PHP, HTML, CSS etc
 * SQL, Git, SVN, Perforce, Mercurial
 * Linux Server administration
+
+
+## Elitsa Pavlova 
+
+* Developer at Nemetschek 
+* Assistant Data Mining at FMI 
+* Google+: https://plus.google.com/u/0/111738953163284558188/posts 
+
+### She's good at: 
+
+* Web Development 
+* Python & Django 
+* JavaScript
