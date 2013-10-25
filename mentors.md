@@ -197,3 +197,30 @@ _Not available on Sunday_
 * Web Development 
 * Python & Django 
 * JavaScript
+
+## Todor Kolev
+* CEO & Founder at Obecto: http://www.obecto.com
+* Partner at SEC Live: http://www.seclive.com
+* Partner at PoolTalent: http://www.pooltalent.com
+* Find him on LinkedIn - http://www.linkedin.com/profile/view?id=1294154
+
+### He's good at
+* Entrepreneurship
+* Project Management
+* Team Leading
+* Object Oriented Analysis, Modeling and Programming
+* OOP Design Patterns
+* Internet and Web technologies
+* Rich Internet Applications
+* Enterprise Architectures
+* User Experience Design
+
+## Yavor Yankov
+* Senior Developer at Obecto: http://www.obecto.com
+* Find him on LinkedIn - http://www.linkedin.com/profile/view?id=94310822
+
+### He's good at :
+* Object Oriented Programming
+* Clean Code
+* Web Applications
+* PHP, Java
