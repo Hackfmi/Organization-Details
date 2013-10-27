@@ -1,0 +1,6 @@
+{
+  "description": "Tools for HackFMI organization",
+  "dependencies": {
+    "underscore": "~1.5.2"
+  }
+}

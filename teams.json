@@ -13,13 +13,78 @@
             "name" : "Морски Трепачи"
         },
         {
-            "name" : "The Coding Monkeys"
+            "name" : "F.R.I.E.N.D.S"
         },
         {
-            "name" : "The Coding Monkeys"
+            "name" : "HackOverflow"
+        },
+        {
+            "name" : "Powerpuff Boys"
+        },
+        {
+            "name" : "Мотиваторите"
+        },
+        {
+            "name" : "Оркестър без име"
+        },
+        {
+            "name" : "Гъбко"
+        },
+        {
+            "name" : "HackOverflow"
+        },
+        {
+            "name" : "42"
+        },
+        {
+            "name" : "Коала"
+        },
+        {
+            "name" : "Зала 100"
         }
     ],
     "Hack_For_Education" : [
-
-    ]
+        {
+            "name" : "Master"
+        },
+        {
+            "name" : "Lazy Generators"
+        },
+        {
+            "name" : "Teachbox"
+        },
+        {
+            "name" : "Екип Ракета"
+        },
+        {
+            "name" : "Placeholder"
+        },
+        {
+            "name" : "Master"
+        },
+        {
+            "name" : "Python Sucks"
+        },
+        {
+            "name" : "Rage Quit"
+        },
+        {
+            "name" : "Студентите (прочетено меко)"
+        },
+        {
+            "name" : "Edu_Real"
+        },
+        {
+            "name" : "Седем"
+        },
+        {
+            "name" : "Grayhat"
+        },
+        {
+            "name" : "The Jack"
+        },
+        {
+            "name" : "Omniverbo"
+        }
+     ]
 }
