@@ -36,6 +36,7 @@ Workshop-a по презентационни умения започва от 16
 * Placeholder
 * Rage Quit
 * Студентите (прочетено меко)
+* Alfa-Omega
 
 ##  Hack For FMI
 
