@@ -16,6 +16,7 @@ Workshop-a по презентационни умения започва от 16
 * Teachbox
 * Lazy Generators
 * Edu_Real
+* Learning Point
 * The Jack
 * Master
 * Placeholder
