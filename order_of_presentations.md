@@ -37,6 +37,7 @@ Workshop-a по презентационни умения започва от 16
 * Rage Quit
 * Студентите (прочетено меко)
 * Alfa-Omega
+* No Exit
 
 ##  Hack For FMI
 
@@ -56,4 +57,3 @@ Workshop-a по презентационни умения започва от 16
 * HackOverflow
 * Гъбко
 * Морски Трепачи
-* No Exit
