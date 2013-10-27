@@ -1,3 +1,7 @@
+Започваме 18:00 в зала Мусала.
+
+Ред на презентациите:
+
 ##  Hack For Education
 * Седем
 * Grayhat
@@ -13,6 +17,7 @@
 * Placeholder
 * Rage Quit
 * Студентите (прочетено меко)
+
 ##  Hack For FMI
 * Powerpuff Boys
 * The Coding Monkeys
