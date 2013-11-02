@@ -5,3 +5,4 @@
 * https://github.com/TheJack/
 * https://github.com/n0-ex1t-judge/judge
 * https://github.com/nikup/occupie
+* https://github.com/vcrazy/project-7
