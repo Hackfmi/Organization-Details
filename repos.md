@@ -8,3 +8,4 @@
 * https://github.com/vcrazy/project-7
 * https://github.com/itanev/Mighty-Mouse
 * https://github.com/nelly-hateva/spiel
+* https://github.com/victoria92/university-program-generator - 42
