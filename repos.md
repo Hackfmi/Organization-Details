@@ -9,3 +9,11 @@
 * https://github.com/itanev/Mighty-Mouse
 * https://github.com/nelly-hateva/spiel
 * https://github.com/victoria92/university-program-generator - 42
+* https://github.com/asenovm/scholarship-system/
+* https://github.com/xswordsx/Level-up-system
+* https://github.com/egotsev/oauth4susi4
+* https://github.com/MrazqRuby/DisciplineReviews
+* https://github.com/HarisonP/php_realm
+* https://github.com/Thinkorswim/Teach-Box
+* https://github.com/ndyakov/fmifeedback-server
+* https://github.com/grayHat/learning-system
