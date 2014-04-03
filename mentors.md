@@ -7,3 +7,17 @@
 ## Технологични ментори за HackFMI 3.0
 
 Предстои попълване на списъка.
+
+## Vasil Kolev
+
+* System administrator and architect at pCloud
+* Lecturer for the Network Security courses in FMI
+* https://vasil.ludost.net/blog/
+
+### Good at
+
+* Security
+* Architecture and DB design
+* Reading code and finding flaws
+* C, shell scripts, PHP, SQL
+* Linux, servers, deployments, making stuff work
