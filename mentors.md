@@ -1,4 +1,4 @@
-# Списък с технологичните ментори, които ще бъдат на разположение по време на хакатона
+﻿# Списък с технологичните ментори, които ще бъдат на разположение по време на хакатона
 
 ## Ако искаш да се включиш в списъка:
 
@@ -21,3 +21,17 @@
 * Reading code and finding flaws
 * C, shell scripts, PHP, SQL
 * Linux, servers, deployments, making stuff work
+
+
+## Александър Янакиев
+
+* 7 years in IT Industry
+* Corporate Process Manager at Musala Soft
+* Experience in team leadership
+
+### Good at
+
+* OOP
+* Java - Hibernate, Spring
+* Oracle, MySQL, MS SQL
+* JavaScript, JQuery, JQuery Mobile
