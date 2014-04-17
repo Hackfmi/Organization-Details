@@ -23,11 +23,12 @@
 * Linux, servers, deployments, making stuff work
 
 
-## Александър Янакиев
+## Alexander Yanakiev
 
 * 7 years in IT Industry
 * Corporate Process Manager at Musala Soft
 * Experience in team leadership
+
 
 ### Good at
 
@@ -35,3 +36,27 @@
 * Java - Hibernate, Spring
 * Oracle, MySQL, MS SQL
 * JavaScript, JQuery, JQuery Mobile
+
+
+## Kiril Borisov
+
+* Senior developer at Luxoft
+
+### Good at
+
+* Core Java
+* Java web technologies
+* Java middle-tier technologies
+* Android and Blackberry mobile development
+
+
+## Borislav Mirchev
+
+* Senior Java Developer at Luxoft
+ 
+### Good at
+
+* Core Java
+* Java Web technologies
+* Java ORM technologies
+* Java Middle tier technologies
