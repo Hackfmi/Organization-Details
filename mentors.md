@@ -65,3 +65,19 @@
 * Java Web technologies
 * Java ORM technologies
 * Java Middle tier technologies
+
+
+
+## Stefan Kanev
+
+* Ruby programmer, here and there
+* Occasionally teaches a course or two in FMI
+* http://skanev.com/
+
+### Good at
+
+* Filling in any place in the whole stack
+* Web development in general
+* Unit and integration testing
+* Object-oriented design
+* Making nice things
