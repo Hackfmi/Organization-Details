@@ -8,6 +8,8 @@
 
 Предстои попълване на списъка.
 
+
+
 ## Vasil Kolev
 
 * System administrator and architect at pCloud
@@ -21,6 +23,7 @@
 * Reading code and finding flaws
 * C, shell scripts, PHP, SQL
 * Linux, servers, deployments, making stuff work
+
 
 
 ## Alexander Yanakiev
@@ -38,6 +41,7 @@
 * JavaScript, JQuery, JQuery Mobile
 
 
+
 ## Kiril Borisov
 
 * Senior developer at Luxoft
@@ -48,6 +52,7 @@
 * Java web technologies
 * Java middle-tier technologies
 * Android and Blackberry mobile development
+
 
 
 ## Borislav Mirchev
