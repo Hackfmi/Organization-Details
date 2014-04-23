@@ -95,3 +95,15 @@
 * Java and Java Web technologies
 * Spring
 * XML processing
+
+
+
+## Alexander Kolarski 
+* Web developer at Komfo
+* Find him on Twitter - https://twitter.com/alex_kolarski
+
+
+### He's good at
+* Web Technologies & Data Mining
+* Front-end & backend development
+* Real time web applications
