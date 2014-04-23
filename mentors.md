@@ -81,3 +81,17 @@
 * Unit and integration testing
 * Object-oriented design
 * Making nice things
+* 
+
+
+
+## Atanas Gardev
+
+* 8 years IT experience
+* Senior Java Developer at Nemetschek
+ 
+### Good at
+
+* Java and Java Web technologies
+* Spring
+* XML processing
