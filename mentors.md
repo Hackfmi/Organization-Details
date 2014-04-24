@@ -254,4 +254,13 @@ Java Developer at Proxiad - http://www.proxiad.com/
 * secretly enjoying scripting languages like Python
 * Linux beta-tester and distro jumper
 
+## Boyan Marinov
 
+.NET Software Developer at FIO Systems Bulgaria
+
+### He's good at
+* .NET and Microsoft stack, ASP.NET WebForms, ASP.NET MVC
+* Front-End development (HTML5 / CSS3 / Slicing)
+* Java Script
+* RESTful services
+* brainstorming ideas
