@@ -210,10 +210,10 @@ LinkedIN: bg.linkedin.com/in/msergeev
 
 Java Developer at Proxiad - http://www.proxiad.com/
 
-### He's:
+### He's
 * a Spring Framework enthusiast
 * object-oriented most of the time
-* heard about JEE
+* heard about JEE and virtualization
 * staying at the back-end
 * secretly enjoying scripting languages like Python
 * Linux beta-tester and distro jumper
