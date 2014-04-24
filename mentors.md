@@ -52,6 +52,8 @@
 * j2se/j2ee/Spring
 * Apache Maven
 * SVN/Git/Mercurial
+
+
 ## Kiril Borisov
 
 * Senior developer at Luxoft
@@ -91,7 +93,7 @@
 * Unit and integration testing
 * Object-oriented design
 * Making nice things
-* 
+
 
 
 
