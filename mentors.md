@@ -118,15 +118,27 @@
 * Real time web applications
 
 ## Bozhidar Dryanovski
+
 * Web developer at Komfo
 * Twitter: https://twitter.com/bdryanovski
 
-### 
+### Good at
+
 * Web development and Mobile Hybrid applications
 * JavaScript, Ruby, PHP 
 * AngularJS and Polymer
 * Database and Software architecture 
 * Vim :)
+
+## Filip Balinov
+
+* Software Engineer at Komfo
+
+## Good at
+
+* DevOps
+* Automatisation
+
 
 ## Todor Kisov
 
