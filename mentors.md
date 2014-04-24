@@ -97,7 +97,6 @@
 * XML processing
 
 
-
 ## Alexander Kolarski 
 * Web developer at Komfo
 * Find him on Twitter - https://twitter.com/alex_kolarski
@@ -132,3 +131,43 @@
 * OOP
 * WEB
 * Datawarehousing
+
+## Yavor Atov 
+
+* Developer at Nemetschek 
+
+### Good at 
+
+* Python & Django 
+* Full stack web development 
+* C, shell scripts, Linux 
+
+
+## Vladimir Tsvetkov
+
+* Developer at Obecto
+
+### Good at
+
+* Software architectures
+* Software processes
+* Object oriented programming
+* Technical presentations
+* Clean code
+* Java
+* Spring
+* JavaScript
+* Dojo
+
+
+## Boris Vangelov
+
+* Senior Developer at Obecto - http://www.obecto.com
+* Find him on LinkedIn - http://www.linkedin.com/profile/view?id=115126538
+
+### Good at
+
+* Web applications
+* PHP & MySQL, Java
+* jQuery, Dojo
+* Clean Code
