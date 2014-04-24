@@ -107,3 +107,14 @@
 * Web Technologies & Data Mining
 * Front-end & backend development
 * Real time web applications
+
+## Bozhidar Dryanovski
+* Web developer at Komfo
+* Twitter: https://twitter.com/bdryanovski
+
+### 
+* Web development and Mobile Hybrid applications
+* JavaScript, Ruby, PHP 
+* AngularJS and Polymer
+* Database and Software architecture 
+* Vim :)
