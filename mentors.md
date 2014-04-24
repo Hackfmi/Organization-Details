@@ -136,7 +136,7 @@
 
 * Software Engineer at Komfo
 
-## Good at
+### Good at
 
 * DevOps
 * Automatisation
