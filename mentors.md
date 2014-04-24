@@ -40,8 +40,18 @@
 * Oracle, MySQL, MS SQL
 * JavaScript, JQuery, JQuery Mobile
 
+## Martin Toshev
 
+* Software Engineer in Musala Soft
 
+### Good at
+
+* OpenJDK 
+* Eclipse IDE
+* Oracle RDBMS / MongoDB
+* j2se/j2ee/Spring
+* Apache Maven
+* SVN/Git/Mercurial
 ## Kiril Borisov
 
 * Senior developer at Luxoft
