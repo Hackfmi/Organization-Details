@@ -184,6 +184,19 @@ Blog: blog.anrieff.net
 * PIC microcontrollers, low-level hardware
 * Optimizations, assembly
 
+
+
+## Philip Balinov
+* DevOps Engineer at Komfo
+
+### 
+* Open-source anything
+* Software architectures
+* PHP, Python, C#, JS
+* Databases
+* Linux & automation
+
+
 ## Venelin Gornishki
 
 Senior Software Developer at ChaosGroup, V-Ray Cloud Development Team
