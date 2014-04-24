@@ -118,3 +118,17 @@
 * AngularJS and Polymer
 * Database and Software architecture 
 * Vim :)
+
+## Todor Kisov
+
+*  Senior Technical Architect at Experian
+*  15 years in the IT Industry
+
+### Good at:
+
+* Architecture and DB design
+* Core Java, PHP
+* Oracle, MS SQL, Pl/SQL, SQL
+* OOP
+* WEB
+* Datawarehousing
