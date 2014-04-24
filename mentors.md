@@ -171,3 +171,38 @@
 * PHP & MySQL, Java
 * jQuery, Dojo
 * Clean Code
+
+## Veselin Georgiev
+
+Senior software developer at Chaos Software, V-Ray Core Development Team 
+Blog: blog.anrieff.net
+
+### He's good at
+* C/C++
+* Algorithms
+* 3D graphics, OpenGL
+* PIC microcontrollers, low-level hardware
+* Optimizations, assembly
+
+## Venelin Gornishki
+
+Senior Software Developer at ChaosGroup, V-Ray Cloud Development Team
+LinkedIN: https://www.linkedin.com/in/vgorni
+
+### He's good at
+* Node.JS
+* Web Development (JS/PHP/HTML5)
+* Mobile Development (iOS/Android)
+* SQL / NoSQL databases
+
+## Mihail Sergeev
+
+Senior Software Developer at ChaosGroup,V-Ray Cloud Development Team
+LinkedIN: bg.linkedin.com/in/msergeev 
+
+### He's good at
+* Node.JS 
+* Web Development (JS / HTML5) 
+* Java / J2EE 
+* .NET
+
