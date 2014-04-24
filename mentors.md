@@ -40,6 +40,18 @@
 * Oracle, MySQL, MS SQL
 * JavaScript, JQuery, JQuery Mobile
 
+## Martin Toshev
+
+* Software Engineer in Musala Soft
+
+### Good at
+
+* OpenJDK 
+* Eclipse IDE
+* Oracle RDBMS / MongoDB
+* j2se/j2ee/Spring
+* Apache Maven
+* SVN/Git/Mercurial
 
 
 ## Kiril Borisov
@@ -81,7 +93,7 @@
 * Unit and integration testing
 * Object-oriented design
 * Making nice things
-* 
+
 
 
 
@@ -108,15 +120,27 @@
 * Real time web applications
 
 ## Bozhidar Dryanovski
+
 * Web developer at Komfo
 * Twitter: https://twitter.com/bdryanovski
 
-### 
+### Good at
+
 * Web development and Mobile Hybrid applications
 * JavaScript, Ruby, PHP 
 * AngularJS and Polymer
 * Database and Software architecture 
 * Vim :)
+
+## Filip Balinov
+
+* Software Engineer at Komfo
+
+### Good at
+
+* DevOps
+* Automatisation
+
 
 ## Todor Kisov
 
