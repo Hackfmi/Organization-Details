@@ -78,10 +78,10 @@
 
 * Filling in any place in the whole stack
 * Web development in general
+* Ruby, Python, JavaScript
 * Unit and integration testing
 * Object-oriented design
 * Making nice things
-* 
 
 
 
