@@ -264,3 +264,11 @@ Java Developer at Proxiad - http://www.proxiad.com/
 * Java Script
 * RESTful services
 * brainstorming ideas
+
+## Dimitar Terziev
+
+* Java Developer at Proxiad
+
+## Roman Angelov
+
+* Technical Team Leader at Proxiad
