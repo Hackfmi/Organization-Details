@@ -131,16 +131,6 @@
 * Database and Software architecture 
 * Vim :)
 
-## Filip Balinov
-
-* Software Engineer at Komfo
-
-### Good at
-
-* DevOps
-* Automatisation
-
-
 ## Todor Kisov
 
 *  Senior Technical Architect at Experian
@@ -212,7 +202,7 @@ Blog: blog.anrieff.net
 ## Philip Balinov
 * DevOps Engineer at Komfo
 
-### 
+### Good at
 * Open-source anything
 * Software architectures
 * PHP, Python, C#, JS
