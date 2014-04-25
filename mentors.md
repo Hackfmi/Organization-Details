@@ -46,7 +46,7 @@
 
 ### Good at
 
-* OpenJDK 
+* OpenJDK
 * Eclipse IDE
 * Oracle RDBMS / MongoDB
 * j2se/j2ee/Spring
@@ -70,7 +70,7 @@
 ## Borislav Mirchev
 
 * Senior Java Developer at Luxoft
- 
+
 ### Good at
 
 * Core Java
@@ -100,7 +100,7 @@
 
 * 8 years IT experience
 * Senior Java Developer at Nemetschek
- 
+
 ### Good at
 
 * Java and Java Web technologies
@@ -108,7 +108,7 @@
 * XML processing
 
 
-## Alexander Kolarski 
+## Alexander Kolarski
 * Web developer at Komfo
 * Find him on Twitter - https://twitter.com/alex_kolarski
 
@@ -126,9 +126,9 @@
 ### Good at
 
 * Web development and Mobile Hybrid applications
-* JavaScript, Ruby, PHP 
+* JavaScript, Ruby, PHP
 * AngularJS and Polymer
-* Database and Software architecture 
+* Database and Software architecture
 * Vim :)
 
 ## Todor Kisov
@@ -145,15 +145,15 @@
 * WEB
 * Datawarehousing
 
-## Yavor Atov 
+## Yavor Atov
 
-* Developer at Nemetschek 
+* Developer at Nemetschek
 
-### Good at 
+### Good at
 
-* Python & Django 
-* Full stack web development 
-* C, shell scripts, Linux 
+* Python & Django
+* Full stack web development
+* C, shell scripts, Linux
 
 
 ## Vladimir Tsvetkov
@@ -187,7 +187,7 @@
 
 ## Veselin Georgiev
 
-Senior software developer at Chaos Software, V-Ray Core Development Team 
+Senior software developer at Chaos Software, V-Ray Core Development Team
 Blog: blog.anrieff.net
 
 ### He's good at
@@ -224,12 +224,12 @@ LinkedIN: https://www.linkedin.com/in/vgorni
 ## Mihail Sergeev
 
 Senior Software Developer at ChaosGroup,V-Ray Cloud Development Team
-LinkedIN: bg.linkedin.com/in/msergeev 
+LinkedIN: bg.linkedin.com/in/msergeev
 
 ### He's good at
-* Node.JS 
-* Web Development (JS / HTML5) 
-* Java / J2EE 
+* Node.JS
+* Web Development (JS / HTML5)
+* Java / J2EE
 * .NET
 
 ## Dimitar Terziev
@@ -262,3 +262,38 @@ Java Developer at Proxiad - http://www.proxiad.com/
 ## Roman Angelov
 
 * Technical Team Leader at Proxiad
+
+## Tsvetan Stoyanov
+Software architect at SAP Labs Bulgaria, currently working on a cloud services integration project
+
+### He's good at
+* Java, Java EE(JDBC, EJB, Servlets, JSP, JMS)
+* PHP
+* SQL, MySQL
+* Web front-end development (JavaScript HTML)
+* git, svn, csv,
+* UX, business apps development,
+* Linux
+
+## Pavel Genevski
+Senior Researcher at SAP Labs Bulgaria
+
+### He's good at:
+* Idea generation, product research and development
+* Web Development with JavaScript, NodeJS, Java, PHP, HTML, CSS, etc.
+* jQuery mobile
+* UX, presentation skills
+* SQL, Postgre
+* Linux
+* Git/Github, Mercurial, SVN, CVS
+* Statistics
+
+
+## Martin Vladev
+Developer at SAP Labs Bulgaria
+
+### He's good at:
+* Web Fronted Development with JavaScript, HTML5, CSS3, jQuery, Bootstrap, Angular.js
+* Backend Development with Node.js, PHP, Java, Haskell
+* GNU/Linux infrastructure, automation, deployment
+* git, SVN
