@@ -297,3 +297,16 @@ Developer at SAP Labs Bulgaria
 * Backend Development with Node.js, PHP, Java, Haskell
 * GNU/Linux infrastructure, automation, deployment
 * git, SVN
+
+
+## Alexander Todorov
+
+* QA guru, cloud and OSS hacker
+* Find him at http://atodorov.org/about
+
+### He's good at
+
+* Python + Django
+* Many PaaS/IaaS clouds, especially Amazon Web Services
+* Quality Engineering if you desperately need it
+
