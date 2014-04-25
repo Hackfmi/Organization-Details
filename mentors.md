@@ -265,7 +265,7 @@ Java Developer at Proxiad - http://www.proxiad.com/
 * RESTful services
 * brainstorming ideas
 
-## Dimitur Terziev
+## Dimitar Terziev
 
 * Java Developer at Proxiad
 
