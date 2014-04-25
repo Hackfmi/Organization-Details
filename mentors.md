@@ -262,3 +262,15 @@ Java Developer at Proxiad - http://www.proxiad.com/
 ## Roman Angelov
 
 * Technical Team Leader at Proxiad
+
+## Alexander Todorov
+
+* QA guru, cloud and OSS hacker
+* Find him at http://atodorov.org/about
+
+
+### He's good at
+
+* Python + Django
+* Many PaaS/IaaS clouds, especially Amazon Web Services
+* Quality Engineering if you desperately need it
