@@ -25,3 +25,4 @@
 * https://github.com/HackBulgaria/CodeCollection
 * https://github.com/HackBulgaria/CodeCollection-API
 * https://github.com/HackBulgaria/Export-to-Gitbook-Service
+* https://github.com/gmmateev/charity
